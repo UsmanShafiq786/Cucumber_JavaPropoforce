@@ -5,23 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d994d3a0-b5eb-433a-9d57-f2bce871db5d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Featurefiles/GoogleLogin.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Featurefiles/SmokeTestSuit/Dashbaord.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Featurefiles/SmokeTestSuit/LoginPage.feature" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/Drivers/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/GoogleloginClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/PageObjects/LoginClassPOM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepsDefinations/Dashbaord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepsDefinations/GoogleLogin.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/StepsDefinations/LoginPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/TestRunner/TestRunner.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/LMS-Automation-master",
+    "last_opened_file_path": "C:/Users/usman.shafique/IdeaProjects/Cucumberjavamodified",
     "project.structure.last.edited": "Facets",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.2",
